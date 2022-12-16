@@ -1,6 +1,5 @@
 <img src="![Display](https://user-images.githubusercontent.com/77338263/208092204-2a524424-345e-480c-a9a5-f81dc3b79a94.png)"></img>
 
-![Display](https://user-images.githubusercontent.com/77338263/208092204-2a524424-345e-480c-a9a5-f81dc3b79a94.png)
 
 <h1 align="center">Sunnyside Agency Landing Page</h1>
 
