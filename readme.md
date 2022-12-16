@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://consoleshop.github.io/" color="white">
+    <a href="https://sabapangani.github.io/consoleshop.github.io/" color="white">
       Live
     </a>
    <span> | </span>
