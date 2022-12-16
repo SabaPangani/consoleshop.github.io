@@ -1,4 +1,4 @@
-<img src="/Display></img>
+<img src="/Display"></img>
 
 
 <h1 align="center">Sunnyside Agency Landing Page</h1>
