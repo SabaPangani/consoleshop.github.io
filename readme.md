@@ -32,6 +32,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 - Semantic HTML5 markup
 - CSS custom properties
+- SASS/SCSS
 - Flex
 - JavaScript
 
